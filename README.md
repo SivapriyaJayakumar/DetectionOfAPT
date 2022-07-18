@@ -20,4 +20,4 @@
 
 ### Data Extracted from LSTM and CNN model has been tested using different classifiers
 
-<img src="/Images/classifiers-inference.png" alt="LSTM Classifier Image" >
+<img src="/Images/classifers-inference.png" alt="LSTM Classifier Image" >
